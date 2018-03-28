@@ -13,6 +13,6 @@
 - Note. This pins for example module NODEMCU-32s
 
 
-<img src= https://cdn.instructables.com/FOL/YWLI/JEOILQ5U/FOLYWLIJEOILQ5U.LARGE.jpg?crop=3:2 alt="Placa" />
+<img src="https://cdn.instructables.com/FOL/YWLI/JEOILQ5U/FOLYWLIJEOILQ5U.LARGE.jpg" alt="Placa" />
 
 
