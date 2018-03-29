@@ -21,3 +21,6 @@ Library based on Gameduino2/3 by James Bowman
 
 # Issues
 - This library at the moment can not work with microsd reader, be working to make this function 
+
+# Constructor object
+- GD.begin(0);
